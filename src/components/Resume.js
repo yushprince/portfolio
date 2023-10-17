@@ -3,7 +3,7 @@ import React from 'react';
 
 const Resume = () => {
     
-  const googleDriveLink = 'https://drive.google.com/file/d/1Y5JCUU-YSmGAYWph6uNvjMyFUKRwhVu0/view?usp=drive_link';
+  const googleDriveLink = 'https://docs.google.com/document/d/12If4xCvEDIpOa_r1KUs1ija8Pfd_ZIDE/edit?usp=drive_link&ouid=112653816137304030258&rtpof=true&sd=true';
 
   return (
     <div>
